@@ -1,4 +1,4 @@
-package reverseString;
+package ReverseString;
 
 public class ReverseString {
 	private String word = "Hello World";
